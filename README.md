@@ -1,7 +1,7 @@
-Desarrollo prueba de nivel de logro 
+Desarrollo prueba de nivel de logro - Trabajo Academico Universitario
 
-Para el desarrollo de esta esta pruba se utilizo el lenguajes de PHP y el motor de base de datos fue MySQL, 
-tambien se utulizo html con boostrat y css para tener una pagina web responsiva.
+Para el desarrollo de esta esta prueba se utilizo el lenguaje de PHP y el motor de base de datos fue MySQL, 
+tambien se utilizo html con boostrat y css para tener una pagina web responsiva.
 Se aplico el patron de diseño Modelo Vista Controlador (MVC). 
 
 Caso:
